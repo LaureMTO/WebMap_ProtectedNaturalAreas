@@ -659,7 +659,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
 		print-color-adjust: exact;
 		}
 	}
-/* ===== POPUPS PERSONNALISÉS CONANP ===== */
+
 .custom-popup-wrapper {
     border-radius: 12px;
 }
@@ -708,4 +708,5 @@ svg.leaflet-image-layer.leaflet-interactive path {
 
 .custom-popup a:hover {
     background: #234c2c;
+
 }
